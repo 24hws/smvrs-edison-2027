@@ -48,14 +48,25 @@ In the inventor's engineering tests, a record created on a server in Oregon was 
 
 SMVRS is rooted in the BEI × ATMS digital-infrastructure initiative begun in 1999 by the inventor, Dr. FURONG BEI. The underlying methods are described in **556 U.S. patent applications filed** naming the inventor, including eight directed to SMVRS methods (e.g., U.S. Application No. 19/791,206).
 
-## 30-page companion
+## 30-page companion — 13 languages
+
+The same 30 pages, for readers around the world.
 
 | Language | File |
 |---|---|
 | English | [SMVRS_Edison_2027_Public_Companion_EN.pdf](SMVRS_Edison_2027_Public_Companion_EN.pdf) |
 | 中文 | [SMVRS_Edison_2027_Public_Companion_ZH.pdf](SMVRS_Edison_2027_Public_Companion_ZH.pdf) |
-| Français | [SMVRS_Edison_2027_Public_Companion_FR.pdf](SMVRS_Edison_2027_Public_Companion_FR.pdf) |
 | Español | [SMVRS_Edison_2027_Public_Companion_ES.pdf](SMVRS_Edison_2027_Public_Companion_ES.pdf) |
+| Français | [SMVRS_Edison_2027_Public_Companion_FR.pdf](SMVRS_Edison_2027_Public_Companion_FR.pdf) |
+| العربية | [SMVRS_Edison_2027_Public_Companion_AR.pdf](SMVRS_Edison_2027_Public_Companion_AR.pdf) |
+| Русский | [SMVRS_Edison_2027_Public_Companion_RU.pdf](SMVRS_Edison_2027_Public_Companion_RU.pdf) |
+| Português | [SMVRS_Edison_2027_Public_Companion_PT.pdf](SMVRS_Edison_2027_Public_Companion_PT.pdf) |
+| Deutsch | [SMVRS_Edison_2027_Public_Companion_DE.pdf](SMVRS_Edison_2027_Public_Companion_DE.pdf) |
+| 日本語 | [SMVRS_Edison_2027_Public_Companion_JA.pdf](SMVRS_Edison_2027_Public_Companion_JA.pdf) |
+| 한국어 | [SMVRS_Edison_2027_Public_Companion_KO.pdf](SMVRS_Edison_2027_Public_Companion_KO.pdf) |
+| हिन्दी | [SMVRS_Edison_2027_Public_Companion_HI.pdf](SMVRS_Edison_2027_Public_Companion_HI.pdf) |
+| বাংলা | [SMVRS_Edison_2027_Public_Companion_BN.pdf](SMVRS_Edison_2027_Public_Companion_BN.pdf) |
+| Bahasa Indonesia | [SMVRS_Edison_2027_Public_Companion_ID.pdf](SMVRS_Edison_2027_Public_Companion_ID.pdf) |
 
 `index.html` is the one-page SMVRS overview.
 
