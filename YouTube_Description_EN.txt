@@ -1,0 +1,47 @@
+SMVRS™ Independent Verify — Signed Machine-Verifiable Record Systems & Services
+2027 Edison Awards Nominee · Public Safety, Security & Digital Integrity
+Inventor: Dr. FURONG BEI · ATMS.com
+
+Trust: civilization's millennia-old conundrum.
+From clay tablets to ledgers to databases, people have largely had to rely on whoever held the record. How can a receiver verify before acting?
+
+SMVRS™ Independent Verify addresses this question with portable proof and independent semantic verification: Proof Before Effect.
+
+CONCEPT — Beyond the signature
+A digital signature establishes that a record's bytes have not changed since signing. SMVRS adds a second layer. A portable signed record (.smvr.json) carries identity and authority, SHA-256 evidence commitments, events and time, and a pinned rule profile. A receiver can therefore check, without relying on the issuing system, whether the record's evidence, events, time and rules remain consistent with one another.
+Protocol: BEI-SMVR-0.1 · Verification profile: SMVR-VERIFY-1
+
+VALUE — Independent, repeatable, explainable
+• Two separately implemented verifiers, Python (A) and Node.js (B), recompute the proof on the receiver's side. A record is marked VERIFIED only when both agree.
+• In controlled tests conducted by the inventor, an intact record passed all 18 checks on both verifiers. When its evidence was altered, both verifiers returned FAILED with the specific reason code EVIDENCE_DIGEST_MISMATCH at evidence.commitment.
+• A record created on a server in Oregon was re-verified by both verifiers on a server in Northern California; a tampered copy was rejected.
+• Built on standard cryptography (SHA-256, Ed25519), with no special hardware, and designed for integration through APIs with software, networks, machines and IoT devices.
+• Intended benefit: detecting an inconsistent record before funds, care or goods are released.
+
+IMPACT — For every person, family, industry and nation
+Trust is not declared; it is independently verified. SMVRS is designed so that records can be checked in any place, in any scenario, at any time:
+• Individuals: personal records, identity and rights
+• Families: health, education, assets and services
+• Enterprises: contracts, compliance and trusted operations
+• Institutions: public services, regulation and trusted digital governance
+• Nations and regions: interoperable trust across jurisdictions
+As AI agents and automated systems act at machine speed, verifying proof before effect becomes a matter of public safety and digital integrity.
+
+THE INVENTION BEHIND IT
+SMVRS is rooted in BEI × ATMS digital-infrastructure work begun in 1999. The underlying methods are described in 556 U.S. patent applications filed naming the inventor, including eight directed to SMVRS core methods (e.g., U.S. Application No. 19/791,206).
+
+CHAPTERS
+0:00 Trust: the millennia-old conundrum · Concept
+0:16 Value: two independent verifiers
+0:29 Impact: explainable results, verified trust
+0:39 Architecture, patent applications and inventor
+
+LINKS
+Edison Awards nominee page: https://edisonawards.com/nominees/smvrs-independent-verify/
+SMVRS: https://smvrs.com
+ATMS: https://atms.com
+Public beta: https://bei.app
+Patent applications (public record): https://patents.justia.com/inventor/furong-bei
+Contact: contact@atms.com
+
+#SMVRS #EdisonAwards #DigitalIntegrity #PublicSafety #ProofBeforeEffect
